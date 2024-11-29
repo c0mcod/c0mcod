@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/eb4361ff-5dd3-4505-a0bc-c2b7550491e5)
+
 <h1 align="center">Olá! Eu sou o Antônio Carlos 👋</h1>
 
 <p align="center">Bem-vindo ao meu perfil GitHub! Sou estudante apaixonado por tecnologia, desenvolvimento de sistemas e estou constantemente em busca de novos desafios e conhecimentos.</p>
