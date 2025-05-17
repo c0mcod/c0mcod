@@ -9,7 +9,7 @@
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º período) na **Estácio**.
-- 🚂 Atuo como **Jovem Aprendiz na Ferrovia Transnordestina Logística S.A.**, passando por diferentes setores de manutenção mecânica.
+- 🚂 Atuo como **Jovem Aprendiz na Ferrovia Transnordestina Logística S.A.**, passando por diferentes setores de manutenção mecânica, planejamento e controle de manutenção e qualidade.
 - 🔧 Estou desenvolvendo projetos próprios com foco em **CRUDs usando Java, JDBC e Swing**, sempre aplicando boas práticas e aprendendo com cada etapa.
 - 🌱 Estudando **Java**, **MySQL**, **Desenvolvimento Web**, **Programação Orientada a Objetos** e **JavaFX**.
 - 🎯 Meta: Me tornar um **Desenvolvedor FullStack** bem preparado para o mercado, unindo backend robusto e interfaces funcionais.
