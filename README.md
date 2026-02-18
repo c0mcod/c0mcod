@@ -31,13 +31,6 @@ API REST desenvolvida com foco em regras de negócio consistentes e integridade 
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=c0mcod&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=c0mcod&layout=compact&theme=dracula)
-
----
-
 ## 📫 Contato
 
 - **LinkedIn:** https://www.linkedin.com/in/ant%C3%B4nio-carlos-da-silva-9533a9238/
