@@ -1,90 +1,44 @@
-<h1 align="center">Antônio Carlos da Silva Neto</h1>
+# Olá, eu sou o Antônio Carlos 👋
 
-<p align="center">
-  Desenvolvedor Backend Java em formação, com foco em modelagem de domínio,
-  APIs REST e organização arquitetural com Spring Boot.
-</p>
+Desenvolvedor Backend Java em formação, com foco em modelagem de domínio, APIs REST e organização arquitetural utilizando Spring Boot.
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 🛠️ Tecnologias e Ferramentas
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
-- 💻 Foco principal em **Java e desenvolvimento backend**.
-- 🧱 Experiência prática na construção de APIs REST com separação em camadas (Controller, Service, Repository).
-- 🧠 Interesse em modelagem de domínio, regras de negócio bem definidas e código organizado.
-- 📈 Evoluindo constantemente através da construção e refatoração de projetos próprios.
-
----
-
-## 🛠 Stack Principal
-
-**Backend**
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- Maven
-
-**Banco de Dados**
-- MySQL
-- Modelagem relacional
-
-**Conceitos**
-- API REST
-- Arquitetura em camadas
-- DTOs
-- Tratamento de exceções
-- Controle transacional (@Transactional)
-- Regras de negócio orientadas ao domínio
-
-**Ferramentas**
-- Git
-- GitHub
-- Postman
+- **Linguagem:** Java (principal)
+- **Frameworks:** Spring Boot, Spring Data JPA, Hibernate
+- **Banco de Dados:** MySQL, PostgreSQL
+- **Ferramentas:** Git, Docker, Maven
+- **Conceitos:** API REST, DTO, controle transacional, arquitetura em camadas
 
 ---
 
-## 📌 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### 🛒 Sistema PDV – API de Ponto de Venda
+### Sistema PDV – API de Ponto de Venda
 
-API REST desenvolvida com Spring Boot para gerenciamento de vendas, produtos e controle de estados da venda.
+API REST desenvolvida com foco em regras de negócio consistentes e integridade transacional.
 
-- Modelagem de entidades (Venda, ItemVenda, Produto)
-- Controle de estados (ABERTA, FINALIZADA, CANCELADA)
-- Cálculo de valores com BigDecimal
-- Validação de estoque
-- Exceções customizadas orientadas ao domínio
-- Separação entre DTOs e entidades
-- Organização em camadas
+- Modelagem de entidades como Venda, ItemVenda e Produto
+- Controle de estados da venda
+- Cálculo de valores utilizando BigDecimal
+- Validação de estoque na finalização
+- Separação entre entidades e DTOs
+- Tratamento de exceções customizadas orientadas ao domínio
 
----
-
-### 🚂 Sistema PDML – Programação Diária de Manutenção de Locomotivas
-
-API backend desenvolvida para substituir planilhas operacionais e organizar informações de manutenção.
-
-- Estruturação completa da API REST
-- Modelagem com JPA
-- Implementação de regras de negócio
-- Filtros e organização de dados operacionais
-
-Projeto utilizado como laboratório de evolução arquitetural e refatoração.
+**Stack:** Java 17, Spring Boot, Hibernate, PostgreSQL.
 
 ---
 
-## 📊 Estatísticas
+## 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c0mcod&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c0mcod&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="160" />
-</div>
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=c0mcod&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=c0mcod&layout=compact&theme=dracula)
 
 ---
 
-## 🌐 Contato
+## 📫 Contato
 
-<a href="https://www.linkedin.com/in/antônio-carlos-da-silva-9533a9238" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+- **LinkedIn:** https://www.linkedin.com/in/ant%C3%B4nio-carlos-da-silva-9533a9238/
+- **Email:** netosilvaneto6@gmail.com
